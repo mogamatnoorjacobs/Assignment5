@@ -4,6 +4,7 @@ Online Movie and Game rental Booking
 Introduction
 People are looking for whichever way to save time, avoid queues in store or drive around to find the product a person is looking for. People would like also to plan upfront and know what they want when walking into a store. To Rent a movie or game online and pick it up at a selected store is a convenient way to obtain a movie or game.
 Class Diagram of the Domain Model 
+![alt tag]( https://raw.githubusercontent.com/mogamatnoorjacobs/Assignment5/master/uml.png)
 
 
 Description of the Domain Model and its Invariants
